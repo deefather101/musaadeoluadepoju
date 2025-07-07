@@ -1,6 +1,6 @@
 # 🌍 Global Economy Indicators Dashboard (2025)
 
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview](Global_Economy_Indicators_2025.pbix)
 
 ## 📊 Project Overview
 An interactive Power BI dashboard showcasing key macroeconomic indicators — including GDP, inflation, unemployment, and government finances — for over 200 countries from 2010 to 2025. Built using World Bank open data.
