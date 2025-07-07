@@ -1,4 +1,4 @@
-# 🌍 Global Economy Indicators Dashboard (2025)
+# 🌍 Power BI Global Economy Indicators Dashboard (2025)
 
 ![Dashboard Preview]([https://shorturl.at/QGYTC)
 
