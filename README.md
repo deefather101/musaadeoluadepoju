@@ -27,9 +27,9 @@ An interactive Power BI dashboard showcasing key macroeconomic indicators — in
 3. Interact with the filters and visuals
 
 ## 🤝 Let's Connect!
-- [Phone Number +2349060482437)
-- [WhatsApp +2348052064678)
-- [Linkedin.com/in/musa-adeolu-adepoju)
+- Phone Number +2349060482437
+- WhatsApp +2348052064678
+- www.linkedin.com/in/musa-adeolu-adepoju
 - [Twitter / X](https://x.com/AdeoluAdepoju4)
 - [Portfolio Website](https://deefather101.github.io)
 
