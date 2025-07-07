@@ -22,8 +22,8 @@ An interactive Power BI dashboard showcasing key macroeconomic indicators — in
 - Clean and professional layout
 
 ## 🚀 How to Explore
-1. Download the `.pbix` file
-2. Open it in Power BI Desktop
+1. Explore Online https://app.powerbi.com/reportEmbed?reportId=45228e57-11ab-48d4-b823-7ff155fb89c1&autoAuth=true&ctid=693f3e72-1f56-4554-8381-a8a0ef2c197a (Power BI Service)
+2. Download the `.pbix` file
 3. Interact with the filters and visuals
 
 ## 🤝 Let's Connect!
